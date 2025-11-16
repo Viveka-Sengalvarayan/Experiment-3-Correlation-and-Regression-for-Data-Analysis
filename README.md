@@ -23,7 +23,7 @@
 <img width="1143" height="477" alt="image" src="https://github.com/user-attachments/assets/d3d41b8d-bee6-4b5f-a6fe-ef6997126cf2" />
 
 # Program
-
+~~~
 Name: Viveka
 Reg no: 25016820
 Slot name: 3P1-1
@@ -91,7 +91,7 @@ plt.ylabel('y-data')
 plt.legend(['Regression Line', 'Data points']) 
 plt.grid(True) 
 plt.show() 
-
+~~~
 colab link: https://colab.research.google.com/drive/17aaEIpwnpFvLfrprS44b5xsZjwicci7U?usp=sharing
 
 # Output
